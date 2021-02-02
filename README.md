@@ -1,2 +1,1 @@
-# file-metadata-microservice
-Part of the APIs and Microservices Projects curriculum from freeCodeCamp.
+# [File Metadata Microservice](https://www.freecodecamp.org/learn/apis-and-microservices/apis-and-microservices-projects/file-metadata-microservice)
